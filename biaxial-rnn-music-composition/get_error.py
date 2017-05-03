@@ -1,6 +1,6 @@
 from __future__ import print_function
-f = open('../30000 epochs/data.txt', 'r')
-w = open('../30000 epochs/error.csv', 'w')
+f = open('../200_10000epochs/data.txt', 'r')
+w = open('../200_10000epochs/error.csv', 'w')
 
 print("epoch, error", file=w)
 for line in f:

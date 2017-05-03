@@ -1,6 +1,6 @@
 import model
 import time
-m = model.Model([30,30],[10,5],dropout=0.5)
+m = model.Model([200,200],[90,45],dropout=0.5)
 
 import multi_training
 pcs = multi_training.loadPieces("music")
