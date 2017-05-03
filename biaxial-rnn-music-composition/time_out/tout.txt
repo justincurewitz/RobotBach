@@ -1,0 +1,275 @@
+
+['nvcc', '-shared', '-O3', '-use_fast_math', '-m64', '-Xcompiler', '-DCUDA_NDARRAY_CUH=c72d035fdf91890f3b36710688069b2e,-DNPY_NO_DEPRECATED_API=NPY_1_7_API_VERSION,-fPIC,-fvisibility=hidden', '-Xlinker', '-rpath,/home/justin/external/.theano/compiledir_Linux-4.4--generic-x86_64-with-debian-stretch-sid-x86_64-2.7.13-64/cuda_ndarray', '-I/home/justin/anaconda2/lib/python2.7/site-packages/theano/sandbox/cuda', '-I/home/justin/anaconda2/lib/python2.7/site-packages/numpy/core/include', '-I/home/justin/anaconda2/include/python2.7', '-I/home/justin/anaconda2/lib/python2.7/site-packages/theano/gof', '-L/home/justin/anaconda2/lib', '-o', '/home/justin/external/.theano/compiledir_Linux-4.4--generic-x86_64-with-debian-stretch-sid-x86_64-2.7.13-64/cuda_ndarray/cuda_ndarray.so', 'mod.cu', '-lcublas', '-lpython2.7', '-lcudart']
+Loaded liz_rhap09
+Loaded chpn_op25_e2
+Loaded debussy_cc_1
+Loaded scn15_12
+Loaded chpn-p16
+Loaded mz_332_2
+Loaded clementi_opus36_3_1
+Loaded grieg_zwerge
+Loaded beethoven_opus90_2
+Loaded chpn-p9
+Loaded burg_quelle
+Loaded schubert_D935_3
+Loaded alb_esp2
+Loaded muss_4
+Loaded schumm-3
+Loaded liz_et2
+Loaded bor_ps5
+Loaded haydn_9_1
+Loaded clementi_opus36_3_2
+Loaded fruehlingsrauschen
+Loaded liz_et4
+Loaded debussy_cc_6
+Loaded chpn-p4
+Loaded mond_3
+Loaded haydn_43_1
+Loaded mz_330_1
+Loaded chpn_op25_e1
+Loaded beethoven_hammerklavier_1
+Loaded beethoven_opus22_4
+Loaded schub_d960_1
+Loaded liz_et5
+Loaded pathetique_3
+Loaded chpn-p20
+Loaded schumm-5
+Loaded ty_maerz
+Loaded scn15_5
+Loaded beethoven_les_adieux_2
+Loaded chpn-p2
+Loaded waldstein_3
+Loaded mz_311_2
+Loaded rac_op3_2
+Loaded scn15_4
+Loaded beethoven_opus22_1
+Loaded gra_esp_4
+Loaded chpn-p23
+Loaded appass_3
+Loaded deb_prel
+Loaded burg_agitato
+Loaded pathetique_2
+Loaded god_alb_esp2
+Loaded DEB_PASS
+Loaded scn68_10
+Loaded scn16_1
+Loaded chpn-p1
+Loaded scn16_7
+Loaded grieg_waechter
+Loaded mz_545_3
+Loaded ty_juni
+Loaded scn15_1
+Loaded waldstein_1
+Loaded ty_oktober
+Loaded bor_ps1
+Loaded burg_gewitter
+Loaded haydn_33_1
+Loaded clementi_opus36_6_1
+Loaded clementi_opus36_5_3
+Loaded scn15_3
+Loaded haydn_35_1
+Loaded chpn_op66
+Loaded ty_februar
+Loaded liz_et_trans5
+Loaded haydn_35_2
+Loaded mendel_op19_4
+Loaded mz_311_1
+Loaded schubert_D850_4
+Loaded pathetique_1
+Loaded clementi_opus36_5_1
+Loaded mendel_op30_5
+Loaded chpn-p8
+Loaded scn15_8
+Loaded ty_november
+Loaded grieg_wedding
+Loaded schubert_D935_1
+Loaded brahms_opus1_1
+Loaded rac_op23_7
+Loaded mz_570_3
+Loaded chpn_op25_e11
+Loaded beethoven_les_adieux_1
+Loaded mond_1
+Loaded chpn_op35_1
+Loaded haydn_43_3
+Loaded chpn_op27_1
+Loaded liz_rhap15
+Loaded mendel_op53_5
+Loaded muss_8
+Loaded grieg_kobold
+Loaded scn15_7
+Loaded chpn_op10_e05
+Loaded grieg_berceuse
+Loaded mendel_op62_3
+Loaded bach_847
+Loaded debussy_cc_4
+Loaded haydn_9_3
+Loaded mendel_op30_3
+Loaded mz_333_1
+Loaded rac_op33_8
+Loaded haydn_8_3
+Loaded scn15_10
+Loaded chpn-p3
+Loaded haydn_8_1
+Loaded chpn_op35_4
+Loaded rac_op23_2
+Loaded mendel_op30_1
+Loaded schub_d960_4
+Loaded brahms_opus1_2
+Loaded rac_op32_13
+Loaded rac_op33_6
+Loaded rac_op32_1
+Loaded schumm-4
+Loaded schubert_D850_1
+Loaded haydn_7_1
+Loaded schub_d760_4
+Loaded chpn_op25_e4
+Loaded burg_trennung
+Loaded schuim-1
+Loaded mz_330_3
+Loaded liz_rhap02
+Loaded schu_143_2
+Loaded clementi_opus36_3_3
+Loaded mendel_op19_1
+Loaded chpn_op10_e01
+Loaded mz_570_2
+Loaded ty_juli
+Loaded chpn-p15
+Loaded grieg_once_upon_a_time
+Loaded grieg_butterfly
+Loaded beethoven_opus10_3
+Loaded scn15_13
+Loaded debussy_cc_2
+Loaded br_rhap
+Loaded schub_d760_1
+Loaded alb_esp5
+Loaded bach_846
+Loaded grieg_halling
+Loaded ty_september
+Loaded liz_et_trans4
+Loaded chpn_op35_3
+Loaded bor_ps7
+Loaded mz_333_3
+Loaded scn16_4
+Loaded chpn_op25_e12
+Loaded hay_40_2
+Loaded appass_2
+Loaded chpn_op10_e12
+Loaded rac_op23_5
+Loaded scn68_12
+Loaded burg_spinnerlied
+Loaded scn15_11
+Loaded clementi_opus36_4_3
+Loaded mz_545_1
+Loaded rav_gib
+Loaded beethoven_opus10_2
+Loaded bach_850
+Loaded burg_erwachen
+Loaded clementi_opus36_4_2
+Loaded liz_rhap12
+Loaded scn16_3
+Loaded chpn-p14
+Loaded mz_331_3
+Loaded schu_143_1
+Loaded Pieces
+epoch 0, error=103267.023438
+epoch 100, error=19985.8242188
+epoch 200, error=18120.171875
+epoch 300, error=18526.9179688
+epoch 400, error=16337.2675781
+epoch 500, error=15317.5449219
+epoch 600, error=18858.0136719
+epoch 700, error=17136.8808594
+epoch 800, error=17362.0546875
+epoch 900, error=18318.8535156
+epoch 1000, error=16938.2617188
+epoch 1100, error=17294.0058594
+epoch 1200, error=13785.7958984
+epoch 1300, error=14344.1347656
+epoch 1400, error=10882.8359375
+epoch 1500, error=10674.1289062
+epoch 1600, error=9268.94726562
+epoch 1700, error=9163.88964844
+epoch 1800, error=9673.74902344
+epoch 1900, error=8746.46972656
+epoch 2000, error=8925.84667969
+epoch 2100, error=9551.31835938
+epoch 2200, error=8790.54394531
+epoch 2300, error=8812.59960938
+epoch 2400, error=8294.99707031
+epoch 2500, error=8992.47460938
+epoch 2600, error=8171.11865234
+epoch 2700, error=7146.08642578
+epoch 2800, error=6403.52294922
+epoch 2900, error=7811.71875
+epoch 3000, error=7336.59130859
+epoch 3100, error=7539.140625
+epoch 3200, error=7646.51611328
+epoch 3300, error=6834.00976562
+epoch 3400, error=7228.78662109
+epoch 3500, error=7796.08007812
+epoch 3600, error=6972.00292969
+epoch 3700, error=5968.83203125
+epoch 3800, error=7138.21386719
+epoch 3900, error=7264.61523438
+epoch 4000, error=6305.15429688
+epoch 4100, error=6822.21191406
+epoch 4200, error=8357.58789062
+epoch 4300, error=7316.22314453
+epoch 4400, error=7414.72509766
+epoch 4500, error=7411.98730469
+epoch 4600, error=7257.41699219
+epoch 4700, error=6048.28710938
+epoch 4800, error=6117.92236328
+epoch 4900, error=7575.98046875
+epoch 5000, error=5867.09472656
+epoch 5100, error=6665.19921875
+epoch 5200, error=6766.3203125
+epoch 5300, error=6134.99121094
+epoch 5400, error=6649.59130859
+epoch 5500, error=6402.41162109
+epoch 5600, error=6526.890625
+epoch 5700, error=7290.09277344
+epoch 5800, error=5754.70996094
+epoch 5900, error=6383.42529297
+epoch 6000, error=5695.73388672
+epoch 6100, error=6310.22753906
+epoch 6200, error=5792.92285156
+epoch 6300, error=6710.85449219
+epoch 6400, error=6405.77880859
+epoch 6500, error=5862.18359375
+epoch 6600, error=7434.27392578
+epoch 6700, error=5850.58984375
+epoch 6800, error=7057.79248047
+epoch 6900, error=5725.90234375
+epoch 7000, error=6416.06542969
+epoch 7100, error=6763.67773438
+epoch 7200, error=5710.74902344
+epoch 7300, error=4701.77539062
+epoch 7400, error=6244.54296875
+epoch 7500, error=6274.92236328
+epoch 7600, error=5624.29882812
+epoch 7700, error=5742.14941406
+epoch 7800, error=6871.65576172
+epoch 7900, error=7336.88720703
+epoch 8000, error=6472.87597656
+epoch 8100, error=5938.79980469
+epoch 8200, error=5169.75097656
+epoch 8300, error=6938.34472656
+epoch 8400, error=6479.68945312
+epoch 8500, error=6916.59179688
+epoch 8600, error=5635.43701172
+epoch 8700, error=5696.74658203
+epoch 8800, error=5087.52587891
+epoch 8900, error=5090.72460938
+epoch 9000, error=5111.89160156
+epoch 9100, error=6331.88378906
+epoch 9200, error=6182.34960938
+epoch 9300, error=6095.49707031
+epoch 9400, error=5119.79394531
+epoch 9500, error=7109.16357422
+epoch 9600, error=6125.56005859
+epoch 9700, error=5707.89794922
+epoch 9800, error=6145.90917969
+epoch 9900, error=6713.31347656
+Trained
+Elapsed time: 7:1:37
